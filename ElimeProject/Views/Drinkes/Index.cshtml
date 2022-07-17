@@ -1,0 +1,87 @@
+﻿@model ElimeProject.ViewModels.DrinkesViewModel
+
+@{
+    ViewData["Title"] = "Index";
+}
+<div class="drink" id="drink">
+    <header class=" con1 drink-header">
+        <div class="drink-searchMenu class container" id="result">
+            <div class="row">
+                <div class="col-2 text-left">
+                    <a class="drink-drink" href="/dishes">
+                        <img src="~/images/embedded/menu2.png" alt="" style="height: 30px; width: 28px;" />
+                    </a>
+                </div>
+                <div class="col">
+                    <form method="get" class="form-search">
+                        <div class="search">
+                            <button>
+                                <img src="~/images/embedded/search.png" alt="" />
+                            </button>
+                            <input class="form-control" id="search" type="search" placeholder="поиск" aria-label="Search" style="height: 36px;" autocomplete="off">
+                        </div>
+
+                    </form>
+                </div>
+                <div class="col-2 text-right">
+                    <a class="drink-basket" href="/baskets">
+                        <img src="~/images/embedded/basket.svg" alt="" style="height: 30px; width: 29px;" />
+                        <p id="count"></p>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </header>
+    <div class="drink-Categories container">
+        @foreach (DrinkCategory drinkCategory in Model.DrinkCategories)
+        {
+        <button class="drink-criteria-@drinkCategory.Id" style="color: black;" onclick="filter('@drinkCategory.Id')">
+            @drinkCategory.Name
+        </button>
+        }
+    </div>
+    <div class="drink-menu mt-2 container" id="alco">
+        <div class="row">
+            @foreach (Drink drink in Model.Drinkes)
+            {
+            <div class="col-lg-4 col-md-6 pb-4">
+                <div class="card drink-card p-0" style="height: 156px;width: auto;">
+                    <div class="row">
+                        <div class="col-5">
+                            <div class="img-wrapper">
+                                <img class="card-img-top" src="~/images/drinkes/@drink.ImageName" alt="Card image cap" style="width: 100px; height: 93px;" />
+                                <img src="/images/embedded/arrow.png" onclick="showImgLarge(this);" alt="" class="pop-up-button" />
+                            </div>
+                            <div class="drink-price">
+                                <h6>@String.Concat(drink.Price.ToString(), "₽")</h6>
+                            </div>
+                        </div>
+                        <div class="col-7 p-0">
+                            <div class="drink-card-body">
+                                <h5 class="card-title">@drink.Name</h5>
+                                <p class="card-text">@drink.Description</p>
+                            </div>
+                            <div id="button-center-@drink.Id">
+                                <button class="create-btn" id="create-btn-@drink.Id" onclick="create(@drink.Id, '@drink.Name', '@drink.NutritValue', '@drink.Description', '@drink.DrinkCategoryId', @drink.Price, '@drink.ImageName', @drink.Milliliter)">в корзину</button>
+                                <button class="created-btn" id="created-btn-@drink.Id">
+                                    <img class="minus" src="~/images/embedded/minus.png" onclick="minus(@drink.Id)" style="width: 15px; height: 15px; margin: auto;">
+                                    <span class="number" id="number-@drink.Id" style="color: black;">1</span>
+                                    <img class="plus" src="~/images/embedded/plus.png" onclick="plus(@drink.Id)" style="width: 15px; height: 15px; margin: auto;">
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            }
+        </div>
+    </div>
+    <div id="alarm">
+        <img src="/images/embedded/ofnik.png" alt="" />
+    </div>
+    <div id="popUpImgBlock" style="display: none;">
+        <img src="~/images/embedded/close.png" alt="" id="closePopUp" />
+        <img src="" alt="" class="card-img-top" id="popUpImg" />
+    </div>
+</div>
+<script src="~/js/drinkes/drink.js"></script>

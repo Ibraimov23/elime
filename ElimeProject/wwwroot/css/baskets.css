@@ -1,0 +1,364 @@
+.basket-close img {
+    position: relative;
+}
+
+.basket-menu .basket-card, .basket-menu {
+    background-color: #E1E1E1;
+}
+
+.basket-menu {
+    padding: 15px;
+    border-radius: 30px;
+    box-shadow: 0 0 5px silver;
+    margin-bottom: 15px;
+}
+
+    .basket-menu .basket-card h5 {
+        font-weight: 500;
+        font-size: 14px;
+        height: 10px;
+    }
+
+    .basket-menu .basket-card p {
+        color: rgba(0,0,0,.5);
+        font-size: 12px;
+        text-align: left;
+        margin-bottom: 10px;
+        width: 170px;
+    }
+
+.basket-form {
+    width: 65%;
+}
+
+@media (max-width: 400px) {
+    .basket-form {
+        flex-grow: 1;
+        padding: 0 10px 0 0;
+    }
+}
+
+.basket-header .form-control {
+    height: 36px;
+    width: 100%;
+    border-radius: 20px;
+    background-color: #e1e1e1;
+}
+
+.basket-card {
+    border: 0 !important;
+    margin-top: 20px;
+}
+
+.basket-block_img {
+    width: 20%;
+    position: relative;
+}
+
+.basket-block_info {
+    width: 80%;
+    display: flex;
+}
+
+.basket-calc img {
+    width: 20px;
+    height: 20px;
+}
+
+.basket-calc button {
+    display: block;
+    outline: none;
+    border: none;
+    border-radius: 25px;
+    padding: 5px 15px;
+    box-shadow: 0px 2px 5px 1px grey;
+    margin-bottom: 5px;
+}
+
+    .basket-calc button:first-child {
+        margin-bottom: 25px;
+    }
+
+.basket button:focus
+{
+    outline: none;
+}
+
+.basket-card-body {
+    width: 50%;
+    padding: 10px !important;
+    padding-right: 5px !important;
+}
+
+.basket-calc {
+    text-align: center;
+    text-align: -webkit-center;
+}
+
+    .basket-calc .basket-numord {
+        width: 160px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+.basket-calc .basket-numord .number
+{
+    color: black;
+}
+.basket-prise {
+    width: 120px;
+}
+
+@media (max-width: 400px) {
+    .basket-prise {
+        width: 100px;
+    }
+}
+
+.basket-line {
+    background: #c4c4c4;
+    box-shadow: 0px 1px 6px rgb(0 0 0 / 21%);
+    border-top: 1px solid rgba(0,0,0,0.1);
+    box-sizing: content-box;
+    height: 0;
+    overflow: visible;
+    display: block;
+    margin: 1rem;
+}
+
+.basket-numtable, .basket-result {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 15px 0;
+}
+
+.basket-second_part_flex {
+    flex-grow: 1;
+    text-align: center;
+}
+
+.basket-numtable p, .basket-result p {
+    font-size: 30px;
+    font-weight: bold;
+    margin: 0;
+}
+
+@media (max-width: 400px) {
+    .basket-numtable p, .basket-result p {
+        font-size: 21px;
+    }
+}
+
+.basket-button-color {
+    background: #E1E1E1;
+    cursor: pointer;
+}
+
+.basket-num_tab {
+    outline: none;
+    border: none;
+    border-radius: 4px;
+    padding: 5px 15px;
+    box-shadow: 0px 2px 5px 1px grey;
+}
+
+.basket-numdish, .basket-prsdish {
+    outline: none;
+    border: none;
+    border-radius: 25px;
+    padding: 5px 15px;
+    box-shadow: 0px 2px 5px 1px grey;
+    margin-bottom: 10px;
+    margin: 0 20px;
+}
+
+.basket-coment {
+    width: 97%;
+    display: block;
+    margin: auto;
+    border: 2px solid silver;
+    border-radius: 4px;
+    outline: none;
+}
+.basket-calc button.basket-numord, .basket-prise {
+    color: black;
+}
+.basket-by-pay-btn {
+    padding-bottom: 120px;
+}
+@media only screen and (max-width: 400px) {
+    .basket-calc .basket-numord {
+            width: 120px;
+        }
+
+        .basket-numdish, .basket-prsdish {
+            margin: 0 5px;
+        }
+
+        .basket-block_img {
+            width: 30%;
+        }
+
+        .basket-block_info {
+            width: 65%;
+        }
+    }
+
+    @media only screen and (max-width: 350px) {
+        .basket-card-body {
+            padding: 5px !important;
+        }
+
+        .basket-menu .basket-card h5 {
+            font-size: 15px;
+        }
+
+        .basket-calc img {
+            margin-top: 5px;
+            width: 15px;
+            height: 15px;
+        }
+
+        .basket-calc button.basket-numord, .basket-prise {
+            width: 95px;
+        }
+
+        .basket-numtable p, .basket-result p {
+            font-size: 16px;
+        }
+    }
+
+    nav .navbar button span {
+    width: 35px;
+    height: 3px;
+    background-color: black;
+    margin: 5px 3px;
+    display: block;
+    border-radius: 20%;
+}
+
+nav.navbar button {
+    outline: none;
+    border: none !important;
+    padding-left: 0;
+}
+
+.basket-menu p.inpt input[type="radio"] {
+    display: none;
+}
+
+.basket-menu p.inpt {
+    padding-left: 30px;
+}
+
+    .basket-menu p.inpt label {
+        position: relative;
+    }
+
+        .basket-menu p.inpt label::before {
+            content: "";
+            width: 20px;
+            height: 20px;
+            border: 3px solid rgba(196, 196, 196, 1);
+            position: absolute;
+            left: -30px;
+            top: 3px;
+            border-radius: 50%;
+            cursor: pointer;
+        }
+
+    .basket-menu p.inpt input[type="radio"]:checked + label::before {
+        background: radial-gradient( #5DCE4B 35%, rgba(231, 231, 231, 1) 50%);
+        border: 3px solid #5DCE4B;
+        cursor: unset;
+    }
+
+.basket-by-pay-btn {
+    text-align: center;
+}
+
+    .basket-by-pay-btn button {
+        background: #5DCE4B;
+        box-shadow: 0px 2.01111px 6.03333px rgba(0, 0, 0, 0.3);
+        border-radius: 19.1056px;
+        outline: none;
+        border: none;
+        font-weight: 500;
+        font-size: 18px;
+        text-align: center;
+        color: #FFFFFF;
+        padding: 8px 25px;
+    }
+
+.form-search {
+    position: relative;
+}
+
+    .form-search .search {
+        position: relative;
+    }
+
+        .form-search .search button {
+            position: absolute;
+            border: none;
+            background: transparent;
+            outline: none;
+            padding: 0;
+            height: 100%;
+            padding-bottom: 5px;
+            left: 10px;
+        }
+
+        .form-search .search input {
+            text-align: center;
+            font-size: 18px !important;
+        }
+
+.card-img-top {
+    border: 1px solid rgba(0,0,0,0.2) !important;
+    border-radius: 20px !important;
+}
+
+.pop-up-button {
+    border: none !important;
+    border-radius: 0 !important;
+    position: absolute;
+    bottom: 5px;
+    right: 8px;
+    width: 18px;
+    cursor: pointer;
+}
+
+.img-wrapper {
+    position: relative;
+}
+
+#popUpImgBlock {
+    position: fixed;
+    width: 100vw;
+    height: 100vh;
+    background: rgba(231, 231, 231, 0.7);
+    display: flex;
+    top: 0;
+    left: 0;
+    justify-content: center;
+    z-index: 1000;
+}
+
+    #popUpImgBlock #popUpImg {
+        align-self: center;
+        justify-self: center;
+        width: 70%;
+    }
+
+    #popUpImgBlock #closePopUp {
+        width: 30px;
+        position: absolute;
+        right: 10px;
+        top: 10px;
+    }
+
+    #popUpImgBlock .card-img-top {
+        border-radius: 48px !important;
+    }

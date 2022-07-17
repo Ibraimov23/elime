@@ -1,0 +1,77 @@
+
+.authorization
+{
+	margin: auto;
+    text-align: center;
+}
+.authorization .auth-logo img
+{
+	margin-top: 60px;
+}
+.auth-logo p
+{
+	position: absolute;
+    right: 15px;
+    left: 18px;
+    color: black;
+    top: 251px;
+    font-size: 16px;
+    letter-spacing: 4px;
+    font-family: monospace;
+}
+.authorization .auth-btn input {
+    filter: drop-shadow(0px 2px 4px rgba(0, 0, 0, 0.3));
+    border-radius: 14px;
+    border: unset;
+    font-weight: 500;
+    font-size: 14px;
+    letter-spacing: 2px;
+    text-align: center;
+    background-color: rgb(239, 239, 239);
+}
+.authorization .auth-btn input:focus {
+    outline: none;
+}
+.authorization .auth-btn input::-webkit-input-placeholder {
+    color: black;
+}
+.authorization .auth-btn button {
+    filter: drop-shadow(0px 2px 4px rgba(0, 0, 0, 0.3));
+    border-radius: 14px;
+    border: unset;
+    font-weight: 500;
+    font-size: 14px;
+    letter-spacing: 2px;
+    cursor: pointer;
+}
+.authorization .auth-btn button:focus {
+    outline: none;
+}
+.authorization .auth-btn {
+	margin-top: 30px;
+}
+.authorization .auth-btn .row {
+    display: block;
+}
+.authorization .auth-btn .row .col {
+	margin-top: 23px;
+}
+.authorization .auth-indent
+{
+	margin: 12px;
+}
+.authorization .auth-text
+{
+	margin-bottom: 10px;
+    font-size: 16px;
+    font-weight: 400;
+    font-style: normal;
+    line-height: 13px;
+    color: black;
+    letter-spacing: 1px;
+    font-family: monospace;
+}
+.authorization .auth-rgst
+{
+    color: #FB57A2;
+}

@@ -1,0 +1,70 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+}
+<header class="container con1 basket-header">
+    <nav class="navbar navbar-light p-0 mt-3">
+        <button class="navbar-toggler border border-dark" type="button" data-toggle="collapse" data-target="#navbarToggleExternalContent" aria-controls="navbarToggleExternalContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span></span>
+            <span></span>
+            <span></span>
+        </button>
+        <form class="basket-form form-search" method="get">
+            <div class="search">
+                <button>
+                    <img src="~/images/embedded/search.png" alt="">
+                </button>
+
+                <input class="form-control" id="search" type="search" placeholder="поиск" aria-label="Search" style="height: 36px;" autocomplete="off">
+            </div>
+        </form>
+        <a class="basket-close" href="/dishes">
+            <img src="~/images/embedded/close.png" alt="" width="25">
+        </a>
+    </nav>
+</header>
+<div class="container">
+    <div class="basket-card">
+        <div class="basket-menu">
+            <div id="baskets">
+            </div>
+            <div id="baskets2">
+            </div>
+            <div class="basket-numtable">
+                <p>Номер столика:</p>
+                <div class="basket-second_part_flex">
+                    <button type="button" class="basket-num_tab basket-button-color"><span id="number" style="color: black;"></span></button>
+                </div>
+            </div>
+            <hr class="basket-line">
+            <input class="basket-coment" type="text" placeholder="Комментарий" />
+            <hr class="basket-line">
+            <div class="basket-result">
+                <p class="ito">Итого:</p>
+                <div class="basket-second_part_flex">
+                    <button class="basket-numdish basket-button-color"><span id="coll" style="color: black;"></span></button>
+                    <button class="basket-prsdish basket-button-color"><span id="price" style="color: black;"></span></button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="container con2">
+    <div class="basket-menu">
+        <h5 class="h">Выберите способ оплаты</h5>
+        <p class="inpt"><input class="inp" type="radio" name="pay" id="rad_pay_1" /> <label for="rad_pay_1">наличные официанту</label>  </p>
+        <p class="inpt"><input class="inp" type="radio" name="pay" id="rad_pay_2" /> <label for="rad_pay_2">картой картой официанту</label> </p>
+        <p class="inpt"><input class="inp" type="radio" name="pay" id="rad_pay_3" /> <label for="rad_pay_3">картой картой онлайн</label> </p>
+    </div>
+    <div class="basket-by-pay-btn">
+        <button>Заказать и оплатить</button>
+    </div>
+</div>
+<div id="popUpImgBlock" style="display: none;">
+    <img src="images/embedded/close.png" alt="" id="closePopUp">
+    <img src="" alt="" class="card-img-top" id="popUpImg">
+</div>
+<script src="~/lib/react/react.production.min.js"></script>
+<script src="~/lib/react/react-dom.production.min.js"></script>
+<script src="~/lib/react/babel.min.js"></script>
+<script src="~/js/baskets/basket.jsx"></script>

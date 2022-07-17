@@ -1,0 +1,22 @@
+<h1>Index</h1>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Номер столика
+            </th>
+            <th>
+                Имя
+            </th>
+            <th>
+                Цена
+            </th>
+            <th>
+                Картинка
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody id="table">
+    </tbody>
+</table>

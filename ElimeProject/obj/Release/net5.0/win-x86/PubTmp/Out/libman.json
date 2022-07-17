@@ -1,0 +1,14 @@
+{
+  "version": "1.0",
+  "defaultProvider": "cdnjs",
+  "libraries": [
+    {
+      "library": "jquery-cookie@1.4.1",
+      "destination": "wwwroot/lib/jquery-cookie/"
+    },
+    {
+      "library": "react@17.0.2",
+      "destination": "wwwroot/lib/react/"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "ConnectionStrings": {
+    "ElimeDbContext": "Server=wpl37.hosting.reg.ru;Database=u1453339_elimeDb;User Id=u1453339_elimeUser;Password=5ro7?Sc4;"
+  },
+Connect Local 
+{
+  "ConnectionStrings": {
+    "ElimeDbContext": "Server=(localdb)\\mssqllocaldb;Database=elime55db;Trusted_Connection=True;MultipleActiveResultSets=true"
+  },

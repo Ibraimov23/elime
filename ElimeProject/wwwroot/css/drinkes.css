@@ -1,0 +1,268 @@
+
+/*my style*/
+
+ body
+ {
+  background-color: #F4F4F4!important;
+ }
+
+.drink-header .form-control
+{
+  height: 36px;
+    width: 100%;
+    border-radius: 20px;
+    background-color: #e1e1e1;
+}
+.form-search
+{
+    position: relative;
+}
+
+.form-search .search
+{
+    position: relative;
+}
+.form-search .search button
+{
+    position: absolute;
+    border: none;
+    background: transparent;
+    outline: none;
+        padding: 0;
+    height: 100%;
+   
+    padding-bottom: 5px;
+    left: 10px;
+}
+.form-search .search input
+{
+    text-align: center;
+    font-size: 18px!important;
+}
+.drink-searchMenu .col
+{
+  padding: 0;
+}
+.drink-searchMenu 
+{
+  margin-top: 1rem;
+}
+.drink-searchMenu > .row
+{
+  align-items: center;
+}
+.drink-basket p
+{
+  position: absolute;
+    top: 7px;
+    right: 25px;
+    left: 25px;
+    color: black;
+}
+.drink-Categories
+{
+margin: auto;
+    text-align: center;
+    margin-top: 12px;
+    white-space: nowrap;
+    overflow-y: auto;
+}
+.drink-Categories button
+{
+  box-shadow: 0 2.01px 6.03px rgb(0 0 0 / 30%);
+    background-color: #E7E7E7;
+    border: none;
+    border-radius: 20px;
+    margin: 10px;
+    cursor: pointer;
+    outline: none;
+    user-select: none;
+    text-align: center;
+    padding: 2px 15px;
+}
+.drink-Categories button:focus
+{
+  outline: none;
+  background-color: white;
+  box-shadow: 0 2.01px 6.03px rgb(0 0 0 / 60%);
+}
+    .drink-Categories .selected {
+        background-color: #fff;
+        border: 0;
+        outline: none;
+    }
+.drink-menu .drink-card
+{
+    background-color: #E1E1E1;
+    border-radius: 25px;
+    box-shadow: 0px 2.01111px 6.03333px rgba(0, 0, 0, 0.3);
+}
+
+
+.pop-up-button {
+    border: none!important;
+    border-radius: 0!important;
+    position: absolute;
+    bottom: 5px;
+    left: 80px;
+    width: 18px;
+}
+.img-wrapper
+{
+  position: relative;
+}
+#popUpImgBlock
+{
+    position: fixed;
+    width: 100vw;
+    height: 100vh;
+    background:  rgba(231, 231, 231, 0.7);
+    display: flex;
+top: 0;
+left: 0;
+justify-content:center ;
+z-index: 1000;
+}
+#popUpImgBlock #popUpImg
+{
+    align-self: center;
+    justify-self: center;
+    width: 70%;
+}
+#popUpImgBlock #closePopUp
+{
+    width: 30px;
+    position: absolute;
+    right: 10px;
+    top: 10px;
+}
+#popUpImgBlock .card-img-top
+{
+    border-radius: 48px!important;
+}
+.card .row .col-5, .card .row, .card .row .col-7 {
+    height: 100%;
+}
+.drink-menu .drink-card .drink-card-body {
+    padding-left: 0px;
+    width: 192px;
+    padding: 0px;
+    margin-top: 15px;
+}
+.drink-menu .drink-card h5 {
+    font-weight: 500;
+    font-size: 14px;
+    height: 10px;
+}
+.drink-menu .drink-card p {
+    color: rgba(0,0,0,.5);
+    font-size: 12px;
+    text-align: left;
+    margin-bottom: 10px;
+    width: 170px;
+}
+.drink-menu .drink-card img {
+    margin: 15px;
+    margin-bottom: 10px;
+    border: 1px solid rgba(0,0,0,0.2);
+    border-radius: 20px;
+}
+.card-img-top {
+    border: 1px solid rgba(0,0,0,0.2)!important;
+    border-radius: 20px!important;
+}
+.card .row .col-5 .drink-price {
+    position: absolute;
+    bottom: 10px;
+}
+.drink-menu .drink-card .drink-price {
+    margin-left: 14px;
+    background-color: #e1e1e1;
+    border: 0;
+    width: 74px;
+    height: 25px;
+    box-shadow: 0 0 3.01667px rgb(0 0 0 / 30%);
+    border-radius: 14.5806px;
+}
+.drink-menu .drink-card .drink-price h6 {
+    text-align: center;
+    font-weight: 500;
+    font-size: 14px;
+    padding: 4%;
+}
+.drink-menu .drink-card .create-btn {
+    float: right;
+    margin-right: 6px;
+    border: 0;
+    width: 92px;
+    height: 26px;
+    box-shadow: 0 0 3.01667px rgb(0 0 0 / 30%);
+    border-radius: 16.0889px;
+    font-size: 14px;
+    padding: 2px;
+    background-color: #cc2e21;
+    color: #fff;
+}
+
+    .drink-menu .drink-card .create-btn:focus {
+        outline: none;
+    }
+
+.drink-menu .drink-card .created-btn {
+    float: right;
+    margin-right: 6px;
+    border: 0;
+    width: 92px;
+    height: 26px;
+    box-shadow: 0 0 3.01667px rgb(0 0 0 / 30%);
+    border-radius: 16.0889px;
+    font-size: 14px;
+    padding: 2px;
+    background-color: #E1E1E1;
+    justify-content: space-between;
+    display: none;
+}
+
+    .drink-menu .drink-card .created-btn:focus {
+        outline: none;
+    }
+
+    .drink-menu .drink-card .created-btn .number {
+        margin: auto;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 0px;
+        cursor: default;
+    }
+.drink-menu .drink-card .create-btn, .created-btn {
+    position: absolute;
+    right: 30px;
+    bottom: 10px;
+}
+.hidden
+{
+  display: none!important;
+}
+
+#alarm 
+{
+    position: fixed;
+    bottom: 40px;
+    right: 30px;
+    z-index: 500;
+    animation-name: alarmAnim;
+    animation-duration: 0.4s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-out;
+}
+@keyframes alarmAnim
+{
+    50% 
+    {
+        transform: rotate(-5deg);
+    }
+    100%
+    {
+       transform: rotate(5deg); 
+    }
+}

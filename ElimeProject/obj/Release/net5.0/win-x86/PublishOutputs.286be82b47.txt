@@ -1,0 +1,271 @@
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\ElimeProject.exe
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\wwwroot\css\authorization.css
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\wwwroot\css\baskets.css
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\wwwroot\css\dishes.css
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\wwwroot\css\drinkes.css
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\wwwroot\css\site.css
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\wwwroot\favicon.ico
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\wwwroot\images\dishes\029aa10f-eedc-49b6-9f44-0dd18569db3e_bryusselskaya-kapusta-s-gribami-tushenaya-na-skovorode-th.jpg
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\wwwroot\images\dishes\047ad985-09e5-4fd7-8ca0-e28a93f4eb18_Без названия.jfif
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\wwwroot\images\dishes\0bca34fd-96fb-484c-be78-70763ccf3389_QRtiger (1).png
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\wwwroot\images\dishes\0c5e8892-694b-4f00-8b95-3bb1c0f6966b_Рыба.jfif
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\wwwroot\images\dishes\0ef5dbda-e122-4ecf-ac3d-0ccdb90c6b1d_images.jfif
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\wwwroot\images\dishes\164189d5-8570-480d-bf12-1ff5f70eb273_Лапша.jpg
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\wwwroot\images\dishes\189edf57-e40a-4534-b441-00c93e6cf40d_Без названия.jfif
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\wwwroot\images\dishes\198bfc45-d651-41ae-9792-12bc3f7aac2b_Лапша.jpg
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\wwwroot\images\dishes\1b23bc23-4bce-43a6-a2e7-8d862f9327dc_images (1).jfif
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\wwwroot\images\dishes\1fc28eec-3d96-4234-b7f9-c1229b550443_bl3.png
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\wwwroot\images\dishes\2785d03f-a2d4-468d-843c-bf64410b9428_photo_2021-11-02_18-50-21.jpg
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\wwwroot\images\dishes\2d46b547-40e4-4fac-bc78-1f9835065851_Без названия (1).jfif
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\wwwroot\images\dishes\2d878191-5756-4208-858f-c0ba301aec61_Рыба.jfif
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\wwwroot\images\dishes\31983077-621a-4bd5-8a4e-515a844f4c4c_Без названия.jfif
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\wwwroot\images\dishes\324007f6-e473-4514-8446-471d53d929de_QRtiger (1).png
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\wwwroot\images\dishes\3fad3088-2d61-480d-a389-ebbba6ebf440_bl3.png
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\wwwroot\images\dishes\40d71a3a-63c3-46f9-b937-c8726da705d6_images.jfif
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\wwwroot\images\dishes\48c0ef0c-b51f-4ad0-b8ef-f76557174b09_QRtiger (1).png
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\wwwroot\images\dishes\501d2692-22c4-4c4d-b304-3d608b867716_ghoriachiie-bliuda-na-novyi-ghod-основное-фото-рецепта.jpg
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\wwwroot\images\dishes\53483d0c-2c6f-4206-968c-2f12cbec108a_ghoriachiie-bliuda-na-novyi-ghod-основное-фото-рецепта.jpg
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\wwwroot\images\dishes\5596fda9-e614-484e-bb48-8e19d224433b_american-cuisine-03.jpg
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\wwwroot\images\dishes\5ae25a37-3938-4d48-8645-641b4eba9f47_cc.png
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\wwwroot\images\dishes\5cf677bd-c057-47a7-adb7-191a1136a035_Курица.jpg
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\wwwroot\images\dishes\5d1551b7-7158-410a-b27e-ea527492c514_cc.png
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\wwwroot\images\dishes\5e2eeb88-833f-42cb-8b2c-9018b2450826_Безымянный.png
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\wwwroot\images\dishes\69569434-1b66-4c15-a0a3-24004ef91438_QRtiger.png
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\wwwroot\images\dishes\6a5a9942-4d8d-4d59-aead-57208faf4040_QRtiger.png
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\wwwroot\images\dishes\760608fe-9377-4197-81f4-dcf4d988f0d7_bl1.png
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\wwwroot\images\dishes\78170a2d-df35-434e-aeb7-3f6c017f88ef_QRtiger (1).png
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\wwwroot\images\dishes\7915f7e0-1219-4691-9e54-4b6b68ade7d5_Без име4ни.png
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\wwwroot\images\dishes\7bc5e5ae-6726-4b9f-a856-b86a4eb1b584_bl1.png
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\wwwroot\images\dishes\7c2d02b0-3755-4408-a84e-a6272e0c52cc_Лапша.jpg
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\wwwroot\images\dishes\82370e57-178e-4ac0-a285-13fc7c9e6034_Рыба.jfif
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\wwwroot\images\dishes\833bae83-d288-46c0-bc41-ac4a7f44b8b1_bryusselskaya-kapusta-s-gribami-tushenaya-na-skovorode-th.jpg
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\wwwroot\images\dishes\8c489247-5ac5-49fc-b181-56566b92686b_QRtiger (1).png
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\wwwroot\images\dishes\8f3b67da-c8af-4501-bb2f-2fc6062dbf9c_Лапша.jpg
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\wwwroot\images\dishes\9046802f-c8a6-4c7a-bb7b-f09f2d5720d2_2021-10-31.png
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\wwwroot\images\dishes\92f4749e-eeb0-42fd-bc33-398eb751c904_Windows_10-108764.jpg
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\wwwroot\images\dishes\9776ed51-f715-4a35-afd2-f6f0807553fb_Рыба.jfif
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\wwwroot\images\dishes\9e3e1982-0ec8-4857-b49d-bf91f2693072_2021-08-19 (16).png
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\wwwroot\images\dishes\9f249041-27aa-4e26-83a5-1bbaaf4f1bb5_images.jfif
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\wwwroot\images\dishes\9fe94dd3-9706-4e03-b0aa-f2a9962039de_bl4.png
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\wwwroot\images\dishes\a013f002-3dfc-4c1f-8d29-6315c0cc953d_ghoriachiie-bliuda-na-novyi-ghod-основное-фото-рецепта.jpg
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\wwwroot\images\dishes\a14534f8-33a5-41b7-b268-6f62526cd4fd_Бургер.jpg
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\wwwroot\images\dishes\a254c8c9-0417-4f95-ab9e-03d673eb6aee__C__Users_Nursultan_Desktop_vendor_ActualDesign_drink.html(iPhone 6_7_8).png
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\wwwroot\images\dishes\a61eb30d-5971-4179-ab03-014dda70870b_Без имени9.png
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\wwwroot\images\dishes\a9c3db16-49ef-418a-abcc-4302a14c4129_Суп.jfif
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\wwwroot\images\dishes\ac195847-1da9-419b-a689-02c568a9bdad_images.jfif
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\wwwroot\images\dishes\af98ab14-64f5-4de2-8125-e47ce7adfecf_bl3.png
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\wwwroot\images\dishes\b0a5843a.jpg
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\wwwroot\images\dishes\b19fcf1d-2ae7-4726-81a6-0daa98b42205_Домашняя-лапша-с-курицей-и-овощами-1.jpg
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\wwwroot\images\dishes\b43f5562-c352-4831-a5cd-e240c70d541f_Без названия.jfif
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\wwwroot\images\dishes\bbca32e9-c593-4633-a029-d2a5353e90f3_bl5.png
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\wwwroot\images\dishes\bfbcc757-7fc5-41d3-82c5-5d3df5f515f8_Пельмень.jpg
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\wwwroot\images\dishes\c09d2854-fe17-4a08-a97c-821a91bfe0ea_Без названия (1).jfif
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\wwwroot\images\dishes\c2949743-d601-4bfc-8097-59c8aa2f240d_Без названия.jfif
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\wwwroot\images\dishes\c6670be5-1b9f-467f-85e8-e2c8808843b4_american-cuisine-03.jpg
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\wwwroot\images\dishes\c93ae692-a082-4497-b2c1-e62d8a125abc_b0a5843a.jpg
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\wwwroot\images\dishes\ca81762b-d889-4356-bae2-fe9f86998d1e_bl4.png
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\wwwroot\images\dishes\cdd2e7b0-1bd6-4549-9f71-fdc22240f154_images (1).jfif
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\wwwroot\images\dishes\d7dc4ce4-582e-49f9-97d8-f7156befc729_american-cuisine-03.jpg
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\wwwroot\images\dishes\d9825235-57cb-4c5e-834e-f960d9935710_Без названия.png
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\wwwroot\images\dishes\dc0cf847-da80-4904-8b64-49d26f19e4bc_shima_bliudo-446138.jfif
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\wwwroot\images\dishes\dcd3a4e2-8f4a-4df2-af93-d144fce0d280_Без названия.png
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\wwwroot\images\dishes\dfe80a8c-9d4a-423e-9e9d-148e6664719d_Без названия (1).jfif
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\wwwroot\images\dishes\e6ac5398-ee27-4ff7-9b8c-2b3894e66a39_QRtiger_auto_x2_colored_toned_light_ai.png
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\wwwroot\images\dishes\e96f9830-0256-4b83-ac8a-8ebe66d5b76b_Без названия.jfif
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\wwwroot\images\dishes\ec0a22ca-e7cf-40ec-a47c-e9fbcc12983f_Домашняя-лапша-с-курицей-и-овощами-1.jpg
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\wwwroot\images\dishes\ed717de2-cb72-42bf-a793-f957145c72a1_Бургер.jpg
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\wwwroot\images\dishes\efddc7a9-6fdc-4726-b95f-6168edb769a6_Без названия (1).jfif
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\wwwroot\images\dishes\f013980b-85a3-4ef8-9357-4b90995a3fb0_Без названия.jfif
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\wwwroot\images\dishes\f88e3b02-caef-4cab-a7ea-015441d0526c_bl6.png
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\wwwroot\images\dishes\fe4c0641-8cfc-4b3a-950b-4b7d5d17a477_QRtiger.png
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\wwwroot\images\dishes\fe81aad6-03f8-41a3-9027-8677d2152c43_bryusselskaya-kapusta-s-gribami-tushenaya-na-skovorode-th.jpg
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\wwwroot\images\drinkes\19040860-2e1a-447d-af42-d4510102a987_bl7.png
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\wwwroot\images\drinkes\40230899-c7eb-40fd-93bd-cd60e7d6508f_2021-08-19 (16).png
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\wwwroot\images\drinkes\411b2b0b-e12b-4a5a-9f63-3f443455b489_2021-08-19 (16).png
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\wwwroot\images\drinkes\524af477-9166-45e6-95ca-99eab1b607ee_bl8.png
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\wwwroot\images\drinkes\f2812ec4-f68f-4902-8d8a-4f341e5ebcf8_2021-08-19 (16).png
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\wwwroot\images\embedded\arrow.png
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\wwwroot\images\embedded\auth.jpg
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\wwwroot\images\embedded\basket.svg
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\wwwroot\images\embedded\close.png
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\wwwroot\images\embedded\drink.svg
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\wwwroot\images\embedded\insta.svg
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\wwwroot\images\embedded\logo.svg
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\wwwroot\images\embedded\menu.png
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\wwwroot\images\embedded\menu2.png
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\wwwroot\images\embedded\minus.png
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\wwwroot\images\embedded\ofnik.png
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\wwwroot\images\embedded\plus.png
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\wwwroot\images\embedded\search.png
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\wwwroot\images\embedded\wifi.svg
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\wwwroot\images\users\no_avatar.png
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\wwwroot\js\baskets\basket.jsx
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\wwwroot\js\dishes\dish.js
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\wwwroot\js\drinkes\drink.js
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\wwwroot\js\models\data.js
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\wwwroot\js\users\searchUsers.js
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\wwwroot\lib\bootstrap\LICENSE
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\wwwroot\lib\jquery-cookie\jquery.cookie.js
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\wwwroot\lib\jquery-cookie\jquery.cookie.min.js
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\wwwroot\lib\jquery-validation\dist\additional-methods.js
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\wwwroot\lib\jquery-validation\LICENSE.md
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\wwwroot\lib\jquery\dist\jquery.js
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\wwwroot\lib\jquery\dist\jquery.min.js
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\wwwroot\lib\jquery\dist\jquery.min.map
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\wwwroot\lib\jquery\LICENSE.txt
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\wwwroot\lib\react\babel.min.js
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\wwwroot\lib\react\react-dom.development.js
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\wwwroot\lib\react\react-dom.production.min.js
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\wwwroot\lib\react\react.development.js
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\wwwroot\lib\react\react.production.min.js
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\appsettings.Development.json
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\appsettings.json
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\libman.json
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\ElimeProject.dll
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\ElimeProject.runtimeconfig.json
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\ElimeProject.pdb
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\AdvancedStringBuilder.dll
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\Humanizer.dll
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\JavaScriptEngineSwitcher.ChakraCore.dll
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\JavaScriptEngineSwitcher.Core.dll
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\JavaScriptEngineSwitcher.Extensions.MsDependencyInjection.dll
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\JSPool.dll
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\Microsoft.CodeAnalysis.dll
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\Microsoft.Data.SqlClient.dll
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\Microsoft.EntityFrameworkCore.dll
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\Microsoft.Identity.Client.dll
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\Microsoft.IdentityModel.Logging.dll
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\Newtonsoft.Json.dll
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\Newtonsoft.Json.Bson.dll
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\React.AspNet.dll
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\React.AspNet.Middleware.dll
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\React.Core.dll
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\System.Composition.AttributedModel.dll
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\System.Composition.Convention.dll
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\System.Composition.Hosting.dll
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\System.Composition.Runtime.dll
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\System.Composition.TypedParts.dll
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\System.Configuration.ConfigurationManager.dll
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\System.Data.SqlClient.dll
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\System.Runtime.Caching.dll
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\ru-ru\JavaScriptEngineSwitcher.ChakraCore.resources.dll
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\ru-ru\JavaScriptEngineSwitcher.Core.resources.dll
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\ChakraCore.dll
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\sni.dll
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\ElimeProject.Views.dll
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\ElimeProject.Views.pdb
+C:\Users\Nursultan\Desktop\Ресторан\Project\ElimeProject\ElimeProject\obj\Release\net5.0\win-x86\PubTmp\Out\ElimeProject.deps.json

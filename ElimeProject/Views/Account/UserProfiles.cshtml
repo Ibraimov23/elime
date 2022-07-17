@@ -1,0 +1,55 @@
+﻿@model ElimeProject.ViewModels.UsersListViewModel
+@{
+    ViewBag.Title = "UserProfiles";
+}
+
+<hr />
+<form method="get">
+    <div class="form-inline ">
+        <div class="form-group">
+            <span class="input-group-addon"><i class="fas fa-search"></i></span>
+            <input class="search_users"  type="text" id="search" placeholder="search" autofocus/>
+        </div>
+    </div>
+</form>
+
+<div id="userList">
+    <table class="table mt-3 table-striped linkUserProfile" id="example">
+        <thead>
+            <tr>
+                <th><p>login</p></th>
+                <th><p>email</p></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (User user in Model.PageViewModel)
+            {
+            <tr class="hrefUserProfile" data-href="/Account/UserProfile/@user.Id">
+                <td class="table-hover">@user.UserName</td>
+                <td class="table-hover">@user.Email</td>
+                <td class="table-hover"><a type="button" class="btn btn-primary" asp-action="DeleteUsers" asp-route-id="@user.Id">Delete</a></td>
+           </tr>
+            }
+        </tbody>
+    </table>
+</div>
+
+<ul class="pagination">
+    @{
+        var prevDisabled = !Model.PageViewModel.HasPreviousPage ? "disabled" : "";
+        var nextDisabled = !Model.PageViewModel.HasNextPage ? "disabled" : "";
+    }
+    <li class="page-item">
+        <a asp-route-pageNumber="@(Model.PageViewModel.PageIndex - 1)"
+           asp-route-searchString="@Context.Request.Query["searchString"]"
+           class="btn page-link page @prevDisabled" style="text-align: left;">previos</a>
+    </li>
+    <li class="page-item">
+        <a asp-route-pageNumber="@(Model.PageViewModel.PageIndex + 1)"
+           asp-route-searchString="@Context.Request.Query["searchString"]"
+           class="btn page-link page @nextDisabled" style="text-align: right;">next</a>
+    </li>
+</ul>
+@section Scripts {
+    <script src="~/js/searchUsers.js"></script>
+}

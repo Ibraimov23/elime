@@ -1,0 +1,22 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta content="telephone=no" name="format-detection">
+    <title>@ViewData["Title"] - elime</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/dishes.css">
+    <link rel="stylesheet" href="~/css/drinkes.css">
+    <link rel="stylesheet" href="~/css/baskets.css" />
+    <link rel="stylesheet" href="~/css/authorization.css" />
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/jquery-cookie/jquery.cookie.min.js"></script>
+    <script src="~/js/models/data.js"></script>
+</head>
+<body style="overflow-x: hidden; @ViewData["color"]">
+    @RenderBody()
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

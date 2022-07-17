@@ -1,0 +1,29 @@
+﻿@model ElimeProject.ViewModels.LoginViewModel
+<div class="authorization">
+    <div class="auth-logo">
+        <img src="~/images/embedded/auth.jpg" width="219" height="254" />
+        <p>управление</p>
+    </div>
+    <div class="auth-btn">
+        <div class="row">
+            <form method="post" asp-controller="account" asp-action="login"
+                  asp-route-returnUrl="@Model.ReturnUrl">
+                <div class="col">
+                    <input type="text" asp-for="Login" style="width: 260px;height: 30px;" placeholder="login" autocomplete="off" />
+                </div>
+                <div class="col">
+                    <input type="text" asp-for="Password" style="width: 260px;height: 30px;" placeholder="password" autocomplete="off" />
+                </div>
+                <div class="col">
+                    <button type="button" style="width: 130px;height: 30px;" onclick="location.href='#'">восстановить</button>
+                    <span class="auth-indent"></span>
+                    <button type="submit" style="width: 102px;height: 30px;">войти</button>
+                </div>
+                <div class="col">
+                    <p class="auth-text">Еще не с нами?</p>
+                    <button type="button" class="auth-rgst" style="width: 182px;height: 30px;" onclick="location.href='#'">регистрация</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
